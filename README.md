@@ -1,2 +1,2 @@
 # itsmetheking.github.io
-Maven group ¯\_(ツ)_/¯
+Maven group ¯\\_(ツ)_/¯
